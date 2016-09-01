@@ -1,0 +1,7 @@
+<jboss-web>
+    <context-root>/session</context-root>
+    
+    <security-domain>java:/jaas/jmx-console</security-domain>
+
+</jboss-web>
+
